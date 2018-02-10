@@ -2,7 +2,7 @@
 Project Title:  Tropical Flooring Iventory Management System (TFIMS) - Simple, Beautiful, Powerful, 
 https://github.com/vmov031/react-inventory.git
 
-##TFIMS is a customized inventory management software for tracking inventory levels, orders, sales and deliveries for a hardwood flooring wholesale distributor. TFIMS was built with the specific needs of Tropical Flooring in mind. The major functionalities of TFIMS can be seen below: 
+## TFIMS is a customized inventory management software for tracking inventory levels, orders, sales and deliveries for a hardwood flooring wholesale distributor. TFIMS was built with the specific needs of Tropical Flooring in mind. The major functionalities of TFIMS can be seen below: 
     
     Individual login (authenticated user) 
     Dashboard - displays highlights and key metrics
@@ -13,7 +13,7 @@ https://github.com/vmov031/react-inventory.git
     TFIMS was built with the goal of improving the inventory and warehouse management process of Tropical Flooring. It would replace the manual inventory tracking with an intuitive, straight forward and simple system that all employees could learn
 
 
-##Getting Started
+## Getting Started
 
     Prerequisites: 
         Internet connectivity - To load the application
@@ -21,11 +21,11 @@ https://github.com/vmov031/react-inventory.git
     Installing: 
         Clicking Heroku  
 
-##Deployment
+## Deployment
 
     Application is deployed on Heroku
 
-##Built With 
+## Built With 
 
     HTML & CSS    
     Bootstrap
@@ -38,11 +38,11 @@ https://github.com/vmov031/react-inventory.git
     Material Dashboard Template (https://github.com/creativetimofficial/material-dashboard-react)
 
 
-##Versioning
+## Versioning
 
     TFIMS 2.0
 
-##Authors
+## Authors
 
     de Guzman, Janna 
     Montero, Vanessa
